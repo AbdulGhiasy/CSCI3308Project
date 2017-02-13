@@ -8,7 +8,7 @@ Description:
 
 Vision Statement:
 
-Motivation:
+Motivation: Some buildings are hard to find the way without using stairs. This might be a trouble to wheelchair users since they are unable to use stairs. This inconvenience to handicapped people motivated us to create a direction indicator for wheelchair users.
 
 Risk Mitigation Plan:
 
