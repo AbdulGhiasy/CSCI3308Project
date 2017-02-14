@@ -6,17 +6,13 @@ Members: Phi Trang, Xiaoshun Xu, Abdul Ghiasy, Sunghak Hong, Hannah Erdevig
 
 Description:
 
-Vision Statement:
+Vision Statement: 
 
 Motivation: Some buildings are hard to find the way without using stairs. This might be a trouble to wheelchair users since they are unable to use stairs. This inconvenience to handicapped people motivated us to create a direction indicator for wheelchair users.
 
-Risk: First of all, all 5 members of us are kind of newbie in programming.
-we've done only few programming languages which have learnt in CSCI 1 & 2, and little skills of Linux. 
-unstable meeting time can be also problem, since each people has individual schedule.
-Even if we've met in 3pm Monday, there is no garantee that we can meet again at the same time on next week.
+Risks: It is evident that all members of the group lack experience in our area of focus to some extent. Most of our programming experience that can be applied to the course comes from CSCI foundation courses we have already taken such as CSCI 1300 & CSCI 2270. In addition to our lack of experience, another risk we have established is schedule conflicts. Each of our schedules is different from one another, so setting a constant time to meet in person varies weekly, meaning there is no guarantee that we could meet at the same time each week consistently.
 
-Risk Mitigation Plan: practice, look for help specifically CSEL, try trials to get best answers.
-unstable meeting time can be overcome by planning multiple meeting schedule per Milestone week. Also, since we are decided to use slack for communication, even someone didn't present to the meeting, we still can communicate with that person via online stuff.
+Risk Mitigation Plan: In order to account for our lack of experience, our best plan to improve our knowledge in our area of focus is research, look for help (specifically CSEL), and through trial and error. As for scheduling conflicts, it can be overcome by planning multiple meetings per Milestone week. Plus, our main collaboration tool, Slack, will always be a fallback or back-up if we are unable to meet in person.
 
 Version Control: The version control method and repository we are using for deliverables created for our project is Github.
 
