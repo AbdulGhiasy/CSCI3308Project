@@ -4,7 +4,8 @@ Team Name: Team 7
 
 Members: Phi Trang, Xiaoshun Xu, Abdul Ghiasy, Sunghak Hong, Hannah Erdevig 
 
-Description: With our product, a user will be shown the best handicap accessible route between a point on a map of the CU Boulder campus that they select and a chosen destination building. This route will be illustrated for the user on the map. This map will also mark the positions of handicap accessible doors and elevators within the destination building on campus.
+Description:  In our campus, there are still some obstacles for wheelchair users if they face without any notice: such as stairs, bicycle routes, uphills, or crowded pedestrians. With our product, a user will be shown the best handicap accessible route between a point on a map of the CU Boulder campus that they select and a chosen destination building. This route will be illustrated for the user on the map. This map will also mark the positions of handicap accessible doors and elevators within the destination building on campus.
+Also in the outside, since bicycles are quite fast and it might hard for wheelchair to avoid, we will let the users to choose if they will include the route with bycicle road as a result or not. This will be same as uphills, and if the road is crowded or not depends on time period. 
 
 Vision Statement: People restricted to wheelchair accessible travel will be able to use our mobile app to direct them along the best, safe route to their chosen destination on campus.
 
