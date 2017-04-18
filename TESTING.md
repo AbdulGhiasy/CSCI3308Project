@@ -13,6 +13,6 @@ UAT#3: Disability Services Link
 	Another feature we've tested is our provided link to the CU Boulder Disability Services page. For this case, just clicking on the link at the top of page automatically redirects our site to CU Boulder Disability Services page, thus passing our user acceptance test plan.
 
 Automated Testing:
-	Our test automation inplementation dealt mostly with unit testing, which is our smallest pieces of code that could be logically isolated in a system. First, 
+	Our test automation inplementation dealt mostly with unit testing, which is our smallest pieces of code that could be logically isolated in a system. The tool we use was codeception, which we installed through terminal and ran through bootstrap. The automated cases that we have been testing ensures that our frontpage is properly working. An example can be seen from the zip file named AutomatedTestingimgs.zip. The URLCheck.png takes the url of our website on our localhost machine and the WordCheck.png looks for a specific word that can be found on our frontpage, which is "Click". Output.png indicates that the test was successful and our frontpage will properly work for users aswell.
 
 
