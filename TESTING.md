@@ -13,6 +13,6 @@ UAT#3: Disability Services Link
 	Another feature we've tested is our provided link to the CU Boulder Disability Services page. For this case, just clicking on the link at the top of page automatically redirects our site to CU Boulder Disability Services page, thus passing our user acceptance test plan.
 
 Automated Testing:
-
+	Our test automation inplementation dealt mostly with unit testing, which is our smallest pieces of code that could be logically isolated in a system. First, 
 
 
